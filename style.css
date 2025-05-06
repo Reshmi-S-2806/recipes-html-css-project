@@ -1,0 +1,109 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.home{
+    height: 100px;
+    width: 100%;
+    background-color: darkslategrey;
+    padding-top: 30px;
+}
+ul,li,h1{
+    display: inline;
+    cursor: pointer;
+}
+h1{
+    padding-top: 80px;
+    padding-left: 50px;
+    color: aliceblue;
+    font-size: 55px;
+}
+ul{
+    padding-left: 950px;
+    padding-top: 30px;
+}
+li{
+    color: aliceblue;
+    font-size: 17px;
+}
+.box{
+    padding: 5px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    border: solid black 8px;
+}
+img{
+    height: 220px;
+    width: 220px;
+}
+.btn{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+}
+.btn:hover{
+    background-color: yellow;
+    color: black;
+}
+li:hover{
+    color: yellow;
+}
+.contact{
+    height: 119px;
+    width: 100%;
+    background-color: darkslategrey;
+    text-align: center;
+    margin-top: 35px;
+    padding: 10px;
+    padding-bottom: 5px;
+    color: aliceblue;
+}
+.contact:hover{
+    color: yellow;
+}
+.rec{
+    height: 100px;
+    width: 100%;
+    background-color: darkslategrey;
+    padding-top: 30px;
+    margin-bottom: 5px;
+}
+.h{
+    padding-top: 80px;
+    padding-left: 50px;
+    color: aliceblue;
+    font-size: 55px;
+}
+.ull{
+    padding-left: 950px;
+    padding-top: 30px;
+}
+.ur{
+    padding-top: 5px;
+    margin-top: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+.oll{
+    color: black;
+    background-color: cadetblue;
+    padding:1px;
+    margin-top: 2px;
+    border:solid black 5px;
+}
+.oll.li:hover{
+    color: crimson;
+}
+.ig{
+    float: left;
+    margin-right: 10px;
+    border: 3px solid black;
+    margin-top: 10px;
+    display: inline;
+
+}
